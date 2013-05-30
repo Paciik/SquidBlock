@@ -1,0 +1,20 @@
+[
+{
+  "modid": "SB",
+  "name": "Squid Block",
+  "description": "The Paciik's Test Squid Block And Another Random Stuff Mod!",
+  "version": "0.0.1",
+  "url": "http://github.com/paciik/SquidBlock",
+  "updateUrl": "",
+  "authorList": [
+    "Paciik"
+  ],
+  "credits": ":3",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
